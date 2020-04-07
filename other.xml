@@ -1,0 +1,21 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="IJ_BASE_PACKAGE" value="com.company" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop/examples&#10;C:/Users/Public/slide40&#10;C:/Users/Public/slide133&#10;C:/Users/Public/slide176&#10;C:/Users/Public/slide66&#10;C:/Users/Public/slide110&#10;C:/Users/Public/slide99&#10;C:/Users/Public/slide98&#10;C:/Users/Public/slide91&#10;C:/Users/Public/slide88&#10;C:/Users/Public/slide86&#10;C:/Users/Public/slide85&#10;C:/Users/Public/slide83&#10;C:/Users/Public/slide53&#10;C:/Users/Public/slide46&#10;C:/Users/Public/slide41&#10;C:/Users/Public/slide21&#10;C:/Users/Public/slide13&#10;C:/Users/Theo/Desktop&#10;C:/Users/Theo/Desktop/Project_P18024/AddressBook&#10;C:/Users/Public/AddressBook&#10;C:/Users/Theo/Desktop/Demo12&#10;C:/Users/Public/Documents&#10;C:/Users/Public/Documents/src&#10;C:/Users/Public/Documents/src/com/Thodoris/Zoo" />
+    <property name="file.gist.reindex.count" value="45" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="kotlin.lastUpdateCheck" value="1559568962000" />
+    <property name="lastTip" value="82" />
+    <property name="learn.toolwindow.button.info.shown" value="true" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="project.wizard.template" value="Java" />
+  </component>
+</application>
